@@ -18,7 +18,7 @@ library(ggplot2)
 ## Image 1
 
 ```{r echo=FALSE, out.width="100%"}
-knitr::include_graphics("img/Speaking-the-world.jpg")
+knitr::include_graphics("uoeIDS uoeIDS.github.io a184fdf312e265832efb1401e6aa20ee73e4b0a0 labs-lab-06_img/Speaking-the-world.jpg")
 ```
 
 _Write your comments about image 1 below_
